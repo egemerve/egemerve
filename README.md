@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Merve EGE 👋
 
-<!--
-**egemerve/egemerve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Programming Student  
+🎨 Fine Arts Background  
+🌱 Currently learning Software Development  
+✨ Interested in UI/UX, creative technology and building useful projects
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Programming student at Istanbul University with a background in Fine Arts at Marmara University.
+
+I'm currently developing my programming skills and building projects to strengthen my portfolio and gain real-world experience.
+
+I enjoy combining creativity and technology to create useful and visually engaging digital experiences.
+
+## Currently Learning
+
+- C#
+- Programming Fundamentals
+- Git & GitHub
+- HTML & CSS
+- UI/UX & Figma
+
+## Goals
+
+- Build real-world projects
+- Develop a strong software portfolio
+- Gain internship experience
+- Improve my software development skills
+- Combine creativity with technology
+
+---
+
+⭐ Thanks for visiting my profile!
